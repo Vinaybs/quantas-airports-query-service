@@ -25,5 +25,6 @@ This project can easily be packaged into war by just changing the packaging type
 - You will see a message saying Started QuantasAirportQueryServiceApplication
 - Hit the browser with the URL: http://localhost:8080/svc/v1/airports to display all airports
 - Example URL with some query parameters: http://localhost:8080/svc/v1/airports?country=NZ&code=CHC
+- Unit test cases can be executed using mvn test
 
 
